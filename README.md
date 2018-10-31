@@ -1,6 +1,3 @@
-# exercise-2-autograding
-Teacher's version of the Exercise 2 of Automating GIS processes course with solutions and automatic grading tests 
-
 # Exercise 2
 
 This week we will focus on how to create geometries in Geopandas and how to re-project data and do some basic
